@@ -6,9 +6,9 @@ MyBiKE is a landing page that showcases my use of JS, SCSS and HTML in web devel
 
 # The main technologies that were used:
 * HTML, SCSS, JS
-* Google fonts, favicon generator
+* Google fonts
 * Grid, flexbox
-* Media queries
+* Media queries, mixins, scss variables
 * Animation smoothness
 * Clearing the form on submission using JS
 
