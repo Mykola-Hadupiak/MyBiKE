@@ -1,4 +1,14 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
+# My BiKE landing page
+This landing page is about bicycles.
+It shows the main types of bicycles of this company. How are they cool and different from ordinary bikes.
+
+# The main technologies that were used:
+* html, scss, js
+* google fonts, favicon generator
+* grid, flexbox
+* media queries
+* retina images
+* positioning
+
+# DEMO:
 [DEMO LINK](https://mykola-hadupiak.github.io/MyBiKE/)
