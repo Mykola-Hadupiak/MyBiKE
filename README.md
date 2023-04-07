@@ -10,5 +10,5 @@ It shows the main types of bicycles of this company. How are they cool and diffe
 * retina images
 * positioning
 
-# DEMO:
+# Demo:
 [DEMO LINK](https://mykola-hadupiak.github.io/MyBiKE/)
