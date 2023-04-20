@@ -1,4 +1,4 @@
-# My BiKE landing page
+# [MyBiKE](https://mykola-hadupiak.github.io/MyBiKE/) landing page
 This landing page is about bicycles.
 It shows the main types of bicycles of this company. How are they cool and different from ordinary bikes.
 
